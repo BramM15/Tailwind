@@ -1,6 +1,17 @@
-@import 'tailwindcss';
+@import "tailwindcss";
 
+.text-hanrood {
+    color: #E50056;
+  }
 
-.handrood {
-    color: #e50056;
-}
+  .bg-hanrood {
+    background-color: #E50056;
+  }
+
+  .border-hanrood {
+    border-color: #E50056;
+  }
+
+  .hover:bg-hanrood :hover {
+    background-color: #D40045;
+  }
