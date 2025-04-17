@@ -1,5 +1,6 @@
 @import 'tailwindcss';
 
-@theme {
-    --color-handrood: #e50056;
+
+.handrood {
+    color: #e50056;
 }
